@@ -85,14 +85,20 @@ Personal design system for generating consistent posts on Instagram, X/Twitter, 
 
 ---
 
-## 06 · How to Use This With Claude
+## 06 · How to Use This With Any AI
 
-Paste this at the start of any post generation prompt:
+Paste this at the start of any prompt in ChatGPT, Claude, Gemini, or any other AI:
 
-> Follow my design system. Background: Sand #F5F0E8. Headline: serif, bold, Graphite. Category label: ALL CAPS, small, in the category accent color. Stats/numbers: large, bold, Burnt Coral #E8654A. Handle @EngrCivil_ at the bottom, small and muted. Keep it spacious with generous whitespace.
+> Read my design system rules below and follow them exactly when generating my post.
+> Background: Sand #F5F0E8. Headline: serif, bold, Graphite #1A1A18. Category label: ALL CAPS, small, in the category accent color. Stats and numbers: large, bold, Burnt Coral #E8654A. Handle @EngrCivil_ at the bottom, small and muted. Keep it spacious with generous whitespace.
 
 Then add your topic. Example:
 
+> Topic: 3 things a QC inspector checks before a concrete pour. Use the Steps template.
+
+Or share the link to this repo directly:
+
+> My design system is at github.com/EngrCivil/engrcivil-design-system — read it and follow it exactly. Then generate a post about: [your topic].
 > Topic: 3 things a QC inspector checks before concrete pour. Use the Steps template.
 
 ---
